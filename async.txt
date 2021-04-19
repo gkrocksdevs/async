@@ -1,0 +1,11 @@
+program ----------------Loop start--------------------Log stop-------------------
+
+time ------------------------t1------------------------t2-----------------------
+
+program execution-----------------------------------------------------------------------
+
+The how, why of asynchrous 
+The ways to handle it 
+
+Ways to manage asynchousnity
+- callback
